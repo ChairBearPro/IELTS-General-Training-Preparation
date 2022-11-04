@@ -1,11 +1,13 @@
 # IELTS-General-Training-Preparation
-12 Days to Prepare for IELTS General Training
+12 Days to Prepare for IELTS General Training Test (IELTS on computer)
 
 # Table of Content
 - [Writing](#writing)
 - [Reading](#reading)
 - [Listening](#listening)
 - [Speaking](#speaking)
+- [Practice Materials](#practice-materials)
+- [Helpful Resources](#helpful-resources)
 
 # Writing
 ## Format
@@ -57,6 +59,9 @@
 
 ## Resources
 
-# Helpful Resource
+# Practice Materials
+- Official IELTS on Computer Practices https://ielts.idp.com/prepare/article-get-familiar-ielts-on-computer
+
+# Helpful Resources
 - 开源雅思 https://www.ieltsday.com/
 - 另一个全方位自学guide https://ielts-up.com/index.html
