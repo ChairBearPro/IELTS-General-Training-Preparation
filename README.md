@@ -1,5 +1,5 @@
 # IELTS-General-Training-Preparation
-- 12 Days to Prepare for IELTS General Training Test (IELTS on computer)
+- 10 Days to Prepare for IELTS General Training Test (IELTS on computer)
 - 机考考试顺序为：听力-阅读-写作（比如9am-12pm机考；口语下午in person）
 
 # Table of Content
