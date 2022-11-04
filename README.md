@@ -26,9 +26,23 @@
 # Reading
 ## Format
 - 这个模块需要60分钟，有3个部分。每个部分被分成几个部分，有10到17个问题，总共有40个问题。
+- Passage1: 2-3篇关于日常话题的短文，如时间表，公告，小册子，报纸，广告。这部分是最简单的，它测试你在英语生活环境中理解最常见的文章类型的能力。
+- Passage2: 关于工作的2个文本，例如工作描述，工作申请，工作合同，培训课程等。
+- Passage3: 从书籍、报纸、杂志或网络资源中选取大家感兴趣的话题。
+- 雅思阅读问题类型 - A类与G类相同:
+> 1. 选择题型 Choice
+> 2. 判断题型 True/False/Not Given
+> 3. 判断题型 Yes/No/Not Given
+> 4. 匹配题型 Matching
+> 5. 完形填空与简单题型 Sentence Completion and Short Answer
+> 6. 注释、表格、图表或摘要完成
+
+
 
 ## Resources
 - 雅思阅读6大类题型及示例-适用A类G类 https://www.ieltsday.com/1102.html
+- 雅思官方G类阅读两套各3个sections https://takeielts.britishcouncil.org/take-ielts/prepare/free-ielts-practice-tests/reading/general-training/section-1
+- 开源雅思的更多雅思G类阅读 http://www.ieltsday.com/ielts-reading-g
 
 
 # Listening
