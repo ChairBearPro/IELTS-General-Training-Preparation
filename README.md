@@ -25,6 +25,7 @@
 
 # Reading
 ## Format
+- 这个模块需要60分钟，有3个部分。每个部分被分成几个部分，有10到17个问题，总共有40个问题。
 
 ## Resources
 - 雅思阅读6大类题型及示例-适用A类G类 https://www.ieltsday.com/1102.html
@@ -34,7 +35,8 @@
 ## Format
 
 ## Resources
-雅思听力七大类题型示例与音频 https://www.ieltsday.com/1107.html
+- 雅思听力七大类题型示例与音频 https://www.ieltsday.com/1107.html
+- 雅思听力写法规范 https://www.bilibili.com/read/cv4924136
 
 # Speaking
 ## Format
