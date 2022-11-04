@@ -1,5 +1,6 @@
 # IELTS-General-Training-Preparation
 12 Days to Prepare for IELTS General Training Test (IELTS on computer)
+机考考试顺序为：听力-阅读-写作（比如9am-12pm机考；口语下午in person）
 
 # Table of Content
 - [Writing](#writing)
@@ -28,6 +29,7 @@
 # Reading
 ## Format
 - 这个模块需要60分钟，有3个部分。每个部分被分成几个部分，有10到17个问题，总共有40个问题。
+- **雅思阅读1个小时包括答题和填写答题卡，和口语不一样，没有额外的10分钟誊写答案时间**
 - Passage1: 2-3篇关于日常话题的短文，如时间表，公告，小册子，报纸，广告。这部分是最简单的，它测试你在英语生活环境中理解最常见的文章类型的能力。
 - Passage2: 关于工作的2个文本，例如工作描述，工作申请，工作合同，培训课程等。
 - Passage3: 从书籍、报纸、杂志或网络资源中选取大家感兴趣的话题。
@@ -49,6 +51,8 @@
 
 # Listening
 ## Format
+- 听力模块需要40分钟：测试时间为30分钟，将答案转到答题纸上的时间为10分钟。听力模块共有40个问题，4个部分，一般每个部分有10个问题，每题分值相同。A类与G类听力试题相同。
+
 
 ## Resources
 - 雅思听力七大类题型示例与音频 https://www.ieltsday.com/1107.html
