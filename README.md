@@ -1,6 +1,6 @@
 # IELTS-General-Training-Preparation
-12 Days to Prepare for IELTS General Training Test (IELTS on computer)
-机考考试顺序为：听力-阅读-写作（比如9am-12pm机考；口语下午in person）
+- 12 Days to Prepare for IELTS General Training Test (IELTS on computer)
+- 机考考试顺序为：听力-阅读-写作（比如9am-12pm机考；口语下午in person）
 
 # Table of Content
 - [Writing](#writing)
@@ -67,6 +67,7 @@
 - 雅思听力七大类题型示例与音频 https://www.ieltsday.com/1107.html
 - 雅思听力写法规范 https://www.bilibili.com/read/cv4924136
 - 雅思听力12大场景词汇 https://www.ieltsday.com/1540.html
+- 雅思听力场景专项练习（含音频、原文、答案）http://www.ieltsyun.com/1469.html
 
 # Speaking
 ## Format
