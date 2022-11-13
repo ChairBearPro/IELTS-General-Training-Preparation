@@ -1,6 +1,10 @@
 # IELTS-General-Training-Preparation
 - 10 Days to Prepare for IELTS General Training Test (IELTS on computer)
+    - I only prepared for actually 3 days... wish me all good LUCK!（夹带私货ing） 
 - 机考考试顺序为：听力-阅读-写作（比如9am-12pm机考；口语下午in person）
+    - 不论机考纸考 8:45am考场一定不会让再进人 recommended 8am arrival 
+- 一些有用的general听力机考tips 可以link到其他题型tips (https://liuxue.hujiang.com/ielts/info/p342354/)
+- **仿真机考模拟软件推荐 雅思哥 实在没时间刷题比如我 也可以考前大概看一下每个section机考是啥样的**
 
 # Table of Content
 - [Writing](#writing)
@@ -41,17 +45,15 @@
 > 5. 完形填空与简单题型 Sentence Completion and Short Answer
 > 6. 注释、表格、图表或摘要完成
 
-
-
 ## Resources
 - 雅思阅读6大类题型及示例 - 适用A类G类 https://www.ieltsday.com/1102.html Really worth reading the samples
 - 雅思官方G类阅读两套各3个sections https://takeielts.britishcouncil.org/take-ielts/prepare/free-ielts-practice-tests/reading/general-training/section-1 Remember to go through
 - 开源雅思的更多雅思G类阅读 http://www.ieltsday.com/ielts-reading-g
 
-
 # Listening
 ## Format
 - 听力模块需要40分钟：测试时间为30分钟，将答案转到答题纸上的时间为10分钟。
+- **机考听力因为没有誊写答案的环节，所以是30分钟。 真实考试的时候，录音完全播放完大约需要28分钟，最后只有2分钟时间检查答案并修改答案，所以要求考生能够一边听录音一边选择答案或打字。**
 - 听力模块共有40个问题，4个部分，一般每个部分有10个问题，每题分值相同。A类与G类听力试题相同。
 - 雅思听力问题一般情况都是有序的，换句话说，在你听到问题2的答案之前，演讲者会提供问题1的答案，以此类推。
 - 在每个部分开始之前，有大约30秒的时间来研究问题。
@@ -61,7 +63,6 @@
 > - Section 2：关于日常情况的独白。演讲者的讲话速度很慢，但停顿的次数比前一节要少。例子：为潜在买家提供有关新建公寓的信息，关于湖畔度假胜地的广播采访，关于新牙刷的正面效果的广告等。在第二节中，只关注给定的事实。
 > - Section 3：2，3或4名演讲者之间关于教育或培训情况的对话。这一节比前两节更难，发言者讨论主题的速度更快，有时还使用高级词汇。例如：学生谈论课堂作业，人们讨论教授的学术演讲等。在第三节中，重点放在给定的事实和演讲者的观点和态度上。
 > - Section 4：学术主题独白。这是最难的部分。中间没有停顿，说话者语速很快，词汇量也很大。例如：关于濒危物种的讲座、关于儿童成长的讲座、关于全球变暖及其影响的演讲、关于森林保护区的讲座等。在第4节中，重点放在给定的事实，关键的想法和发言者的意见和态度。
-
 
 ## Resources
 - 雅思听力七大类题型示例与音频 https://www.ieltsday.com/1107.html
