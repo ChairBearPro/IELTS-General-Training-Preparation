@@ -1,8 +1,9 @@
 # IELTS-General-Training-Preparation
 - 10 Days to Prepare for IELTS General Training Test (IELTS on computer)
-    - I only prepared for actually 3 days... wish me all good LUCK!（夹带私货ing） 
 - 机考考试顺序为：听力-阅读-写作（比如9am-12pm机考；口语下午in person）
-    - 不论机考纸考 8:45am考场一定不会让再进人 recommended 8am arrival 
+    - 不论机考纸考 8:45am考场一定不会让再进人 
+    - 虽然是recommended 8am arrival 但是可以考虑在8:30am附近到 不然到太早了也会被收手机在教室干坐着等 进教室之后还不能去洗手间
+    - 口语有可能在上午考完之后会被改时间 (我本来是下午2:20pm突然被改到了12:20am 也就是说考完听读写被迫去裸考了口语)
 - 一些有用的general听力机考tips 可以link到其他题型tips (https://liuxue.hujiang.com/ielts/info/p342354/)
 - **仿真机考模拟软件推荐 雅思哥 实在没时间刷题比如我 也可以考前大概看一下每个section机考是啥样的**
 
