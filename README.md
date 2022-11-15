@@ -2,7 +2,7 @@
 - 10 Days to Prepare for IELTS General Training Test (IELTS on computer)
 - 机考考试顺序为：听力-阅读-写作（比如9am-12pm机考；口语下午in person）
     - 不论机考纸考 8:45am考场一定不会让再进人 
-    - 虽然是recommended 8am arrival 但是可以考虑在8:30am附近到 不然到太早了也会被收手机在教室干坐着等 进教室之后还不能去洗手间
+    - 虽然是官方建议8am arrival 但是可以考虑在8:30am附近到 不然到太早了也会被收手机在教室干坐着等 进教室之后还不能去洗手间
     - 第一个section是听力 不允许去洗手间 (也就是从早上落座教室 到听力考完 都不可以去洗手间) 之后是读写 读写可以在倒数10分钟之前去洗手间 hide屏幕 但是时间count不会暂停 依然流逝
     - 口语有可能在上午考完之后会被改时间 (我本来是下午2:20pm突然被改到了12:20am 也就是说考完听读写被迫去裸考了口语)
 - 一些有用的general听力机考tips 可以link到其他题型tips (https://liuxue.hujiang.com/ielts/info/p342354/)
