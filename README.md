@@ -51,6 +51,7 @@
 - 雅思阅读6大类题型及示例 - 适用A类G类 https://www.ieltsday.com/1102.html Really worth reading the samples
 - 雅思官方G类阅读两套各3个sections https://takeielts.britishcouncil.org/take-ielts/prepare/free-ielts-practice-tests/reading/general-training/section-1 Remember to go through
 - 开源雅思的更多雅思G类阅读 http://www.ieltsday.com/ielts-reading-g
+- 平时多阅读多积累语感和单词量非常重要
 
 # Listening
 ## Format
