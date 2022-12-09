@@ -29,7 +29,6 @@
 - 雅思大作文七类问题题型 http://www.ieltsday.com/609.html (really good link that contains sublinks - good examples in each question type)
 - 雅思G类书信小作文分类及模板 http://www.ieltsday.com/958.html
 - 雅思G类小作文：书信开头、段中、结尾用词规范 https://www.ieltsday.com/5156.html
-- A&G类 通用模板phrases https://www.ieltsday.com/2287.html
 - 雅思连词、简单词同意替换 https://www.ieltsday.com/1377.html
 
 # Reading
